@@ -4,7 +4,7 @@
 
 ## 前提
 
-CAN Classicの拡張フォーマットデータフレーム[^1]のIDを使用します。
+CAN 2.0B Activeの拡張フォーマットデータフレーム[^1]のIDを使用します。
 
 [^1]: [はじめてのCAN/CANFD p20参照](https://cdn.vector.com/cms/content/know-how/VJ/PDF/For_Beginners_CAN_CANFD.pdf)
 
